@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* para os inputs nao ultrapassarem a area maxima das divs que estão */
+  font-family: 'Open Sans', 'sans-seref';
+}
+
+html,
+body,
+ #roof{
+  background-color: #efefef;
+  height: 100%;
+}
